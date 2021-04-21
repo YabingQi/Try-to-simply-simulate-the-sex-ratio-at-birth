@@ -1,1 +1,2 @@
 # Try-to-simply-simulate-the-sex-ratio-at-birth
+Assume in a country, all the families want to have a boy. If a family give brith to a boy, the wife in this certain family will not pregnant again. If the family give birth to a girl, the wife in this family will pregnant again. All the families don't want to have more than four children. If a family already has three girls, when the wife in this family pregnant again, they will go to the hospital to check the sex of the baby. If the baby is a girl, they will abort this baby and try to peegnant again.
