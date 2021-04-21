@@ -42,10 +42,10 @@ int main()
 		}
 	}
     printf("girl:%d, boy:%d\n",girlNum,boyNum);
-	printf("first child: girl:%d, boy:%d\n",a[0][0],a[0][1]);
-	printf("second child: girl:%d, boy:%d\n",a[1][0],a[1][1]);
-	printf("third child: girl:%d, boy:%d\n",a[2][0],a[2][1]);
-	printf("forth child: girl:%d, boy:%d\n",a[3][0],a[3][1]);
+    printf("first child: girl:%d, boy:%d\n",a[0][0],a[0][1]);
+    printf("second child: girl:%d, boy:%d\n",a[1][0],a[1][1]);
+    printf("third child: girl:%d, boy:%d\n",a[2][0],a[2][1]);
+    printf("forth child: girl:%d, boy:%d\n",a[3][0],a[3][1]);
    
    return 0;
 }
